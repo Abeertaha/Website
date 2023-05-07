@@ -1,0 +1,102 @@
+     body {
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size:x-large;
+                background-image: url(Background.jpg);
+                background-size: 800px;
+                background-position: center;
+              
+              }   
+            h1 {
+            text-align: center;
+            color: darkred; 
+            position: relative;
+            bottom: 140px;   
+          }
+
+          #myButton {
+            padding: 5px 10px;
+            background-color: darkcyan;
+            color: black;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: large;
+            font-weight: bold;
+            border-radius: 7px;
+            cursor:pointer;   
+            position: relative;
+            bottom: 250px;
+          }
+
+          #myText {
+            font-size: large;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+          }
+
+          #myImg {
+            position: relative;
+            right: 60px;
+            top: 80px;
+          }
+          p {
+            font-weight: bold;
+          }
+          header {
+            border-bottom: 1px black;
+            padding: 1px 1px 1px px;
+            border: 1px black;
+            background-color: darkgrey;
+            box-shadow: 1px 1px 1px #aaaaaa;
+          }
+          
+          .header-nav {
+            list-style-type: none;
+          font-family: 'Times New Roman', Times, serif;
+          font-size: large;
+          position:relative;
+          left: 50px;
+          }
+          
+          .header-nav li {
+            display: grid;
+          }
+
+          nav {
+            display: inline-block;
+          }
+          
+          #logo {
+            position: relative;
+            bottom: 60px;
+            left: 1450px;
+          }
+        
+          p {
+            font-size: medium;
+          }
+         .text {
+          padding-left: 200px;
+          font-size: large;
+          font-weight: bold;
+          color: green;
+          position: relative;
+          bottom: 100px;
+          font-family: 'Courier New', Courier, monospace;
+         }
+
+         .click {
+          position: relative;
+          bottom: 100px;
+         }
+
+         #date {
+          position: relative;
+          top: 250px;
+          right: 110px;
+          color: darkred;
+         }
+
+         #table {
+          position: relative;
+          left: 1100px;
+          top: 190px;
+         }
